@@ -15,10 +15,10 @@ Développeur full-stack à Caen. Je conçois des applications métier de bout en
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **CAPALIA** | Plateforme d'apprentissage pour élèves dyslexiques et dyspraxiques : cours, exercices interactifs, chatbot IA, visioconférence | Next.js, TypeScript, PostgreSQL, Prisma, Stripe, OpenAI, Vitest |
-| **HelKiSea** | E-learning des métiers de la mer : fiches, quiz, scénarios, export PDF, recherche plein texte | Next.js, Tailwind, PostgreSQL, Meilisearch, Sentry |
+| **[CAPALIA](https://capalia.fr)** | Cours adaptés de français et de maths, plan de révision personnalisé et parcours psychopédagogiques pour les jeunes en CAP, Bac Pro ou alternance, notamment les élèves dys | Next.js, TypeScript, PostgreSQL, Prisma, Stripe, OpenAI, Vitest |
+| **[HelKiSea](https://helkisea.fr)** | Savoir maritime pour la poissonnerie : fiches espèces, techniques, hygiène et commerce, modes de révision et mises en situation pour les apprentis CAP / Bac Pro | Next.js, Tailwind, PostgreSQL, Meilisearch, Sentry |
 
-Ces projets et mon travail en entreprise sont dans des dépôts privés. Je peux en faire une démonstration sur demande.
+Les deux sites sont en ligne. Leur code et mon travail en entreprise sont dans des dépôts privés : je peux en faire une démonstration sur demande.
 
 ### Stack
 
