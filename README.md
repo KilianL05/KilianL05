@@ -15,7 +15,7 @@ Développeur full-stack à Caen. Je conçois des applications métier de bout en
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **Soutien scolaire Dys** | Plateforme d'apprentissage pour élèves dyslexiques et dyspraxiques : cours, exercices interactifs, chatbot IA, visioconférence | Next.js, TypeScript, PostgreSQL, Prisma, Stripe, OpenAI, Vitest |
+| **CAPALIA** | Plateforme d'apprentissage pour élèves dyslexiques et dyspraxiques : cours, exercices interactifs, chatbot IA, visioconférence | Next.js, TypeScript, PostgreSQL, Prisma, Stripe, OpenAI, Vitest |
 | **HelKiSea** | E-learning des métiers de la mer : fiches, quiz, scénarios, export PDF, recherche plein texte | Next.js, Tailwind, PostgreSQL, Meilisearch, Sentry |
 
 Ces projets et mon travail en entreprise sont dans des dépôts privés. Je peux en faire une démonstration sur demande.
